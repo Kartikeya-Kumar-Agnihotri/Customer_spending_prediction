@@ -82,7 +82,3 @@ are real or sensitive, do not publish the CSV or artifacts trained from it.
 The `.pkl` files are included so the project works as provided. Only load pickle
 artifacts from sources you trust; loading a malicious pickle can execute code.
 
-## License
-
-No license is included. Add a license only after deciding what permissions you
-want to grant others for the code and data.

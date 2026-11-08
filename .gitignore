@@ -1,0 +1,16 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets and local configuration
+.streamlit/secrets.toml
+
+# Logs
+*.log

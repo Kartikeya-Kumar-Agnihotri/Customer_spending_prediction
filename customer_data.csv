@@ -1,0 +1,1001 @@
+name,age,gender,education,income,country,purchase_frequency,spending
+Customer 0001,42,Female,High School,53936,Slovenia,0.9,13227.119999999999
+Customer 0002,49,Female,Master,82468,Aruba,0.6,12674.04
+Customer 0003,55,Male,Bachelor,56941,Cyprus,0.3,5354.115
+Customer 0004,24,Female,Bachelor,60651,Palau,0.2,2606.51
+Customer 0005,64,Male,Master,81884,Zambia,0.9,18984.780000000002
+Customer 0006,24,Female,PhD,61444,Libyan Arab Jamahiriya,1.0,18072.2
+Customer 0007,58,Male,PhD,78024,Italy,0.9,21511.08
+Customer 0008,34,Male,High School,32225,Pakistan,0.7,6727.875
+Customer 0009,63,Male,PhD,63664,Venezuela,0.4,9273.28
+Customer 0010,64,Female,High School,45043,San Marino,1.0,16252.15
+Customer 0011,32,Male,Bachelor,91170,Christmas Island,0.8,12446.800000000001
+Customer 0012,23,Male,Master,86576,South Africa,0.8,11463.04
+Customer 0013,24,Female,Master,36359,Nicaragua,0.9,12436.155
+Customer 0014,39,Male,Master,78325,Greenland,0.2,3783.25
+Customer 0015,56,Female,Master,95451,Indonesia,0.4,9509.02
+Customer 0016,36,Male,Bachelor,44475,Australia,0.1,1522.375
+Customer 0017,57,Female,PhD,29055,India,0.2,4690.55
+Customer 0018,61,Male,Bachelor,25064,Mali,0.2,3250.6400000000003
+Customer 0019,62,Female,Master,88392,Sri Lanka,0.4,9367.84
+Customer 0020,31,Female,Master,79056,Egypt,0.8,15162.24
+Customer 0021,60,Female,High School,62509,United Arab Emirates,1.0,17125.45
+Customer 0022,25,Female,Master,44953,Nauru,0.4,5699.06
+Customer 0023,19,Female,High School,48896,Armenia,0.6,5666.879999999999
+Customer 0024,28,Female,PhD,28151,Iran,0.2,3881.51
+Customer 0025,27,Male,High School,95217,Faroe Islands,0.9,11484.765000000001
+Customer 0026,56,Male,High School,36311,United States of America,0.4,5526.22
+Customer 0027,56,Male,PhD,31997,Svalbard & Jan Mayen Islands,0.6,12959.909999999998
+Customer 0028,25,Male,High School,45505,Ethiopia,0.3,2182.575
+Customer 0029,63,Male,PhD,47600,Albania,0.1,2238.0
+Customer 0030,61,Male,PhD,33303,El Salvador,0.5,10832.575
+Customer 0031,22,Male,High School,59460,Chad,0.6,4783.8
+Customer 0032,45,Male,High School,86012,Palau,0.8,11440.480000000001
+Customer 0033,20,Male,PhD,46129,Anguilla,0.5,7653.225
+Customer 0034,40,Female,Bachelor,46661,Cocos (Keeling) Islands,0.1,1733.305
+Customer 0035,61,Male,Bachelor,64867,Cook Islands,0.9,16419.015
+Customer 0036,34,Male,PhD,42913,Philippines,0.1,1814.5650000000003
+Customer 0037,48,Female,Master,66812,Comoros,0.7,14238.419999999998
+Customer 0038,60,Female,Bachelor,93478,Maldives,0.1,2167.3900000000003
+Customer 0039,47,Male,Master,25989,Palau,0.9,14669.505000000001
+Customer 0040,35,Male,Bachelor,83154,Holy See (Vatican City State),0.6,9094.62
+Customer 0041,57,Female,Master,97368,Cook Islands,1.0,23868.4
+Customer 0042,26,Female,PhD,74318,United States Minor Outlying Islands,0.2,4343.18
+Customer 0043,18,Male,Master,40981,Equatorial Guinea,0.4,4819.62
+Customer 0044,32,Female,PhD,94468,Estonia,0.7,15906.38
+Customer 0045,20,Female,PhD,26131,Reunion,0.3,4891.964999999999
+Customer 0046,46,Male,Master,40668,Turkey,0.8,13626.720000000001
+Customer 0047,51,Female,High School,25100,Kazakhstan,0.8,12204.0
+Customer 0048,38,Female,PhD,26534,El Salvador,0.7,14928.689999999999
+Customer 0049,30,Male,Bachelor,21930,Cambodia,0.7,8467.55
+Customer 0050,61,Female,Master,20444,Bermuda,0.4,8008.880000000001
+Customer 0051,18,Male,High School,44963,Maldives,0.2,1449.63
+Customer 0052,56,Male,Master,56697,Cambodia,0.3,5950.454999999999
+Customer 0053,24,Female,PhD,30662,Kyrgyz Republic,0.1,1653.31
+Customer 0054,35,Female,High School,53618,Dominican Republic,0.3,3804.2699999999995
+Customer 0055,59,Female,High School,40242,Greenland,0.5,8006.05
+Customer 0056,19,Male,High School,46966,Aruba,0.5,3674.15
+Customer 0057,53,Female,Master,94379,Sierra Leone,0.1,2371.895
+Customer 0058,65,Female,PhD,77074,Isle of Man,0.6,15512.22
+Customer 0059,52,Male,Bachelor,69227,Christmas Island,1.0,18461.35
+Customer 0060,36,Male,Bachelor,39794,Guadeloupe,0.5,7494.85
+Customer 0061,39,Female,Master,32282,Guam,0.6,11168.46
+Customer 0062,57,Male,High School,55339,Holy See (Vatican City State),0.3,4430.085
+Customer 0063,27,Female,Master,71746,Mauritius,0.9,16728.57
+Customer 0064,26,Female,High School,82660,Cocos (Keeling) Islands,0.4,5653.200000000001
+Customer 0065,21,Female,Bachelor,88557,Isle of Man,0.2,2885.57
+Customer 0066,37,Female,Master,59220,San Marino,0.7,13972.699999999999
+Customer 0067,24,Male,PhD,82128,United Kingdom,0.6,10263.84
+Customer 0068,39,Male,PhD,35205,Chile,0.8,15808.2
+Customer 0069,45,Male,Master,63919,Ghana,0.3,5458.785
+Customer 0070,28,Female,High School,28629,Northern Mariana Islands,0.2,2286.2900000000004
+Customer 0071,30,Male,High School,70438,Yemen,0.1,1152.19
+Customer 0072,24,Female,Master,78791,Gibraltar,0.8,12751.64
+Customer 0073,55,Male,PhD,30965,San Marino,0.6,12928.949999999999
+Customer 0074,32,Female,Bachelor,76521,Grenada,0.4,6730.42
+Customer 0075,40,Male,High School,23620,Bolivia,0.9,10062.9
+Customer 0076,46,Male,High School,85154,Tajikistan,0.7,9980.39
+Customer 0077,34,Male,High School,48297,Saint Vincent and the Grenadines,1.0,10414.85
+Customer 0078,27,Male,Bachelor,80084,Palau,0.7,10502.94
+Customer 0079,41,Male,High School,98150,Somalia,0.8,11926.0
+Customer 0080,27,Female,PhD,88318,Libyan Arab Jamahiriya,0.8,17932.72
+Customer 0081,61,Female,PhD,85358,Norfolk Island,0.4,10507.160000000002
+Customer 0082,52,Male,High School,64593,Gambia,0.6,9137.789999999999
+Customer 0083,38,Male,Bachelor,53670,Bouvet Island (Bouvetoya),1.0,15683.5
+Customer 0084,27,Female,Master,81660,Togo,0.2,3816.6000000000004
+Customer 0085,23,Male,High School,49503,Chad,0.3,2242.5449999999996
+Customer 0086,20,Female,High School,78797,United States Minor Outlying Islands,0.6,6563.91
+Customer 0087,28,Male,PhD,68669,Comoros,0.9,17490.105
+Customer 0088,42,Male,High School,87895,Togo,1.0,14394.75
+Customer 0089,22,Female,Bachelor,57966,British Indian Ocean Territory (Chagos Archipelago),0.9,11608.47
+Customer 0090,56,Female,PhD,70930,Spain,1.0,25546.5
+Customer 0091,55,Male,High School,20031,Papua New Guinea,0.3,3900.4649999999997
+Customer 0092,37,Female,Master,28601,Burundi,0.8,14744.04
+Customer 0093,34,Female,PhD,70352,Kenya,0.7,15062.319999999998
+Customer 0094,21,Male,Bachelor,51319,North Macedonia,0.5,5282.975
+Customer 0095,64,Female,High School,24709,Denmark,0.8,12188.36
+Customer 0096,44,Male,PhD,98900,Chile,0.2,4589.0
+Customer 0097,61,Male,Master,73888,Lithuania,0.1,2069.44
+Customer 0098,57,Female,PhD,80146,Bahrain,0.1,2600.73
+Customer 0099,24,Female,Bachelor,22651,Tuvalu,0.1,1113.2549999999999
+Customer 0100,56,Male,Master,33800,Venezuela,0.9,16821.0
+Customer 0101,59,Female,Bachelor,70254,Nauru,0.8,16410.16
+Customer 0102,25,Male,PhD,64284,Greenland,0.2,3242.84
+Customer 0103,61,Female,Bachelor,70809,Gabon,0.5,10270.225
+Customer 0104,65,Male,Bachelor,25004,Taiwan,0.7,11375.14
+Customer 0105,46,Female,Bachelor,79699,Ireland,0.6,11390.97
+Customer 0106,58,Male,High School,25240,Singapore,0.8,10609.6
+Customer 0107,34,Male,Bachelor,50101,Somalia,0.2,2701.01
+Customer 0108,58,Female,Master,34869,Paraguay,0.3,6223.035
+Customer 0109,45,Female,High School,33731,Spain,0.7,9580.585
+Customer 0110,22,Male,PhD,40467,British Virgin Islands,0.1,1502.335
+Customer 0111,46,Female,PhD,23949,Palau,0.8,16957.960000000003
+Customer 0112,38,Female,High School,66203,Honduras,0.2,3062.03
+Customer 0113,25,Female,High School,65278,United Kingdom,0.6,6158.339999999999
+Customer 0114,29,Male,Bachelor,67946,Gambia,0.2,2879.46
+Customer 0115,56,Male,Bachelor,20423,Iceland,0.4,6408.46
+Customer 0116,60,Male,High School,58438,Cook Islands,0.6,8953.14
+Customer 0117,62,Male,Bachelor,38597,Saint Vincent and the Grenadines,0.3,5078.954999999999
+Customer 0118,47,Male,PhD,65147,Nigeria,0.5,10628.675
+Customer 0119,26,Male,Bachelor,67479,Azerbaijan,0.6,8624.37
+Customer 0120,48,Female,Master,92509,Iceland,0.6,12975.27
+Customer 0121,29,Male,High School,89891,Ukraine,1.0,12494.55
+Customer 0122,37,Male,PhD,39257,Bahrain,0.3,5988.855
+Customer 0123,32,Female,Bachelor,51019,French Guiana,0.3,4665.285
+Customer 0124,36,Female,PhD,26062,Guatemala,0.3,6390.929999999999
+Customer 0125,56,Male,PhD,30213,Brazil,0.2,4302.13
+Customer 0126,26,Female,Master,92191,Namibia,0.7,13726.685
+Customer 0127,65,Male,PhD,59063,Greenland,0.6,13771.890000000001
+Customer 0128,23,Male,PhD,68399,Congo,0.9,14777.955000000002
+Customer 0129,21,Female,PhD,21104,Gambia,0.7,11238.64
+Customer 0130,64,Female,PhD,46737,Niue,0.6,14602.109999999999
+Customer 0131,36,Female,High School,44308,Hong Kong,0.2,2843.08
+Customer 0132,35,Male,Bachelor,78479,French Southern Territories,0.7,10446.765
+Customer 0133,29,Female,PhD,42903,Guinea-Bissau,0.4,8058.060000000001
+Customer 0134,47,Female,Bachelor,66578,Jersey,0.8,14663.120000000003
+Customer 0135,58,Male,PhD,46691,Panama,0.5,11167.275
+Customer 0136,18,Female,PhD,21019,Djibouti,0.4,6420.380000000001
+Customer 0137,37,Male,Master,91461,Ecuador,1.0,19573.05
+Customer 0138,27,Female,PhD,32131,Gibraltar,0.8,15685.24
+Customer 0139,32,Female,Master,22833,American Samoa,0.2,3228.33
+Customer 0140,35,Male,High School,53629,Philippines,0.7,7477.015
+Customer 0141,51,Female,PhD,33373,Angola,0.5,11834.325
+Customer 0142,40,Female,Bachelor,98041,Saudi Arabia,0.2,3980.41
+Customer 0143,20,Male,Master,60056,Lesotho,0.9,11702.52
+Customer 0144,39,Male,Bachelor,41437,Norway,0.2,3014.3700000000003
+Customer 0145,44,Female,Master,88135,Benin,0.3,6422.025
+Customer 0146,54,Male,High School,73844,Guatemala,0.9,14122.980000000001
+Customer 0147,43,Female,Master,77981,Bangladesh,0.6,12539.429999999998
+Customer 0148,54,Male,Bachelor,36160,Liechtenstein,0.2,3361.6000000000004
+Customer 0149,42,Female,PhD,38288,Denmark,0.9,19722.960000000003
+Customer 0150,60,Female,Master,81953,Honduras,0.7,16168.355
+Customer 0151,31,Female,PhD,85741,Paraguay,0.6,13372.23
+Customer 0152,49,Male,PhD,59345,Hong Kong,0.3,6290.175
+Customer 0153,65,Female,High School,48274,Mayotte,0.1,1641.3700000000001
+Customer 0154,40,Female,PhD,21325,Namibia,0.9,18959.625
+Customer 0155,22,Male,PhD,20841,Belgium,0.6,8425.23
+Customer 0156,20,Male,High School,55432,Palau,0.5,3885.8
+Customer 0157,64,Male,Bachelor,95084,Djibouti,0.5,9877.1
+Customer 0158,30,Male,PhD,80410,Belgium,0.6,12012.3
+Customer 0159,42,Male,Master,75274,Anguilla,0.7,13134.59
+Customer 0160,27,Female,Bachelor,88702,Moldova,0.6,10461.06
+Customer 0161,26,Male,Bachelor,78212,Burundi,0.6,8946.36
+Customer 0162,42,Female,PhD,71057,Netherlands,0.4,9421.14
+Customer 0163,30,Female,Bachelor,96877,Moldova,0.1,1784.385
+Customer 0164,42,Male,Bachelor,31096,Kuwait,0.3,4366.44
+Customer 0165,41,Male,Bachelor,50548,Iceland,1.0,15527.4
+Customer 0166,37,Male,Master,66277,Vietnam,0.7,12819.694999999998
+Customer 0167,47,Male,PhD,96147,Cocos (Keeling) Islands,0.8,18245.88
+Customer 0168,49,Female,PhD,48235,Micronesia,0.6,13447.05
+Customer 0169,35,Male,High School,26888,United States of America,0.3,2803.3199999999997
+Customer 0170,40,Male,Master,20934,Myanmar,0.3,4814.01
+Customer 0171,22,Female,Bachelor,99775,Armenia,0.7,10492.125
+Customer 0172,53,Male,PhD,45277,Panama,0.6,13358.31
+Customer 0173,56,Male,High School,61815,Haiti,0.6,9054.449999999999
+Customer 0174,52,Female,Master,53488,Somalia,0.1,2167.44
+Customer 0175,51,Male,Bachelor,68326,Tokelau,0.2,3683.26
+Customer 0176,31,Female,Bachelor,46426,Christmas Island,0.5,7660.65
+Customer 0177,61,Female,Master,87751,Liechtenstein,0.7,16371.284999999998
+Customer 0178,34,Female,Master,51452,American Samoa,0.1,1757.26
+Customer 0179,37,Male,High School,80415,Slovenia,0.8,11216.6
+Customer 0180,64,Female,High School,74017,French Polynesia,0.8,14160.68
+Customer 0181,47,Female,High School,31221,Chad,0.2,2712.21
+Customer 0182,33,Male,Bachelor,74265,Cote d'Ivoire,0.4,5885.3
+Customer 0183,46,Male,PhD,93270,Brazil,0.7,15864.449999999999
+Customer 0184,20,Male,Bachelor,84227,Yemen,0.4,4884.54
+Customer 0185,26,Female,Master,61890,Central African Republic,0.7,12666.15
+Customer 0186,24,Female,Bachelor,58881,Mayotte,0.8,10355.24
+Customer 0187,50,Female,Master,55723,Paraguay,0.4,7914.460000000001
+Customer 0188,19,Male,High School,42619,Malawi,0.7,4991.665
+Customer 0189,33,Male,Master,20844,Algeria,0.9,12637.980000000001
+Customer 0190,50,Female,High School,35963,Morocco,0.7,9658.705
+Customer 0191,59,Female,High School,94012,Reunion,0.6,11220.359999999999
+Customer 0192,32,Female,Bachelor,51475,Mayotte,0.2,3114.75
+Customer 0193,51,Female,Master,50618,Afghanistan,0.6,12918.54
+Customer 0194,58,Female,Master,96291,Singapore,0.3,7144.365
+Customer 0195,26,Male,Master,68101,Albania,1.0,16405.05
+Customer 0196,58,Male,Bachelor,71849,Argentina,0.3,5577.735
+Customer 0197,29,Male,Bachelor,47066,Ethiopia,0.8,10682.64
+Customer 0198,54,Male,Bachelor,37318,Bolivia,0.4,6746.360000000001
+Customer 0199,42,Female,Bachelor,85334,Heard Island and McDonald Islands,0.2,3853.34
+Customer 0200,57,Male,Master,84120,Norway,0.8,16964.8
+Customer 0201,37,Male,Bachelor,92813,Nicaragua,0.3,5292.195000000001
+Customer 0202,60,Female,PhD,91569,Western Sahara,0.6,15947.07
+Customer 0203,63,Male,Master,38015,Western Sahara,1.0,18900.75
+Customer 0204,43,Male,Master,58237,United States of America,0.7,12538.294999999998
+Customer 0205,21,Male,High School,61308,Kyrgyz Republic,0.4,3226.16
+Customer 0206,39,Female,Bachelor,54092,Costa Rica,0.6,10622.759999999998
+Customer 0207,60,Male,Master,22225,Algeria,0.6,10866.75
+Customer 0208,54,Male,Bachelor,66323,Serbia,0.1,1831.6150000000002
+Customer 0209,49,Male,High School,51649,Malawi,0.1,1258.2450000000001
+Customer 0210,18,Male,Master,28722,Fiji,0.1,1143.6100000000001
+Customer 0211,40,Female,Bachelor,48380,Puerto Rico,0.8,13935.2
+Customer 0212,45,Male,Master,60888,Oman,0.3,5413.320000000001
+Customer 0213,59,Female,PhD,70157,Montserrat,0.1,2550.785
+Customer 0214,44,Female,PhD,25497,Lithuania,1.0,21274.85
+Customer 0215,25,Female,PhD,42454,Czech Republic,0.1,1712.2700000000002
+Customer 0216,50,Male,Bachelor,30439,Timor-Leste,0.6,8713.17
+Customer 0217,33,Male,Bachelor,22880,Belarus,0.3,3643.2
+Customer 0218,65,Male,High School,75990,Tokelau,1.0,15799.5
+Customer 0219,24,Female,Bachelor,98901,Cyprus,0.1,1494.505
+Customer 0220,34,Female,PhD,23573,Colombia,0.1,1917.8650000000002
+Customer 0221,49,Male,Master,58369,Sao Tome and Principe,0.3,5375.535
+Customer 0222,47,Male,Master,41270,Estonia,0.7,11944.449999999999
+Customer 0223,39,Female,PhD,71457,Germany,0.1,2357.285
+Customer 0224,37,Female,PhD,24578,French Southern Territories,0.9,19106.010000000002
+Customer 0225,54,Female,High School,79758,Philippines,0.7,12591.53
+Customer 0226,64,Male,PhD,65428,Falkland Islands (Malvinas),0.8,18617.120000000003
+Customer 0227,21,Male,Master,24492,Tuvalu,0.5,5612.3
+Customer 0228,61,Female,Bachelor,89372,Saint Vincent and the Grenadines,0.9,19321.739999999998
+Customer 0229,39,Female,Master,47390,Azerbaijan,0.2,3873.9
+Customer 0230,54,Female,Bachelor,96827,Monaco,0.9,19657.215
+Customer 0231,61,Female,Bachelor,40061,Iran,0.6,11401.83
+Customer 0232,65,Male,High School,94038,Liechtenstein,0.3,5010.570000000001
+Customer 0233,40,Female,Master,58459,Bangladesh,0.6,11953.77
+Customer 0234,49,Female,PhD,42286,Sao Tome and Principe,0.1,2211.43
+Customer 0235,27,Male,PhD,36495,Taiwan,0.6,10694.85
+Customer 0236,18,Female,Master,44596,Uruguay,0.2,2845.96
+Customer 0237,53,Female,Master,42784,Timor-Leste,0.9,19025.280000000002
+Customer 0238,28,Male,Bachelor,95980,Somalia,0.2,3159.8
+Customer 0239,50,Female,PhD,54833,El Salvador,0.5,11370.825
+Customer 0240,36,Male,PhD,56757,Austria,0.5,10418.925
+Customer 0241,52,Female,Master,44902,Finland,0.7,14871.569999999998
+Customer 0242,27,Male,Bachelor,93830,Belize,0.7,10984.05
+Customer 0243,41,Female,High School,93609,Dominica,0.7,11676.315
+Customer 0244,58,Male,High School,67477,Russian Federation,0.9,13836.465
+Customer 0245,28,Male,Master,85141,Slovenia,0.1,1725.705
+Customer 0246,64,Male,Bachelor,55975,Senegal,0.3,5339.625
+Customer 0247,44,Male,PhD,51029,Austria,0.8,16441.16
+Customer 0248,50,Male,Bachelor,41559,Belize,0.8,12062.36
+Customer 0249,22,Female,PhD,55632,Ukraine,0.5,8890.8
+Customer 0250,45,Female,Master,31878,Gambia,0.5,9296.95
+Customer 0251,19,Female,High School,52841,Benin,0.4,3856.8199999999997
+Customer 0252,43,Female,PhD,71021,Vanuatu,0.1,2355.105
+Customer 0253,55,Female,Master,94552,Heard Island and McDonald Islands,0.3,7118.28
+Customer 0254,54,Female,Master,23185,Kuwait,0.7,14111.474999999999
+Customer 0255,48,Male,High School,30680,Tuvalu,1.0,11534.0
+Customer 0256,40,Female,High School,29092,Japan,0.4,5381.84
+Customer 0257,63,Male,PhD,25651,United States Minor Outlying Islands,0.6,12769.529999999999
+Customer 0258,19,Female,PhD,36419,New Caledonia,0.5,8410.475
+Customer 0259,44,Male,Bachelor,72979,Slovakia (Slovak Republic),0.5,8324.475
+Customer 0260,50,Male,Bachelor,36434,Guadeloupe,0.3,4446.51
+Customer 0261,48,Male,High School,92737,Guinea-Bissau,0.7,10245.795
+Customer 0262,29,Female,High School,30581,Cambodia,0.9,10376.145
+Customer 0263,29,Female,Bachelor,54205,South Africa,0.6,9426.15
+Customer 0264,62,Female,Master,87821,Marshall Islands,0.8,18712.84
+Customer 0265,27,Female,Bachelor,25059,New Zealand,1.0,14252.95
+Customer 0266,29,Male,Master,29390,Angola,0.4,5787.8
+Customer 0267,59,Female,Bachelor,80118,Gambia,0.9,18905.31
+Customer 0268,28,Female,Bachelor,82453,Netherlands,0.9,15410.385000000002
+Customer 0269,21,Male,Master,20322,Cayman Islands,0.2,2203.2200000000003
+Customer 0270,24,Female,Master,94746,United States Minor Outlying Islands,0.8,13389.84
+Customer 0271,39,Female,Master,35577,Burundi,0.3,5633.655
+Customer 0272,38,Male,Bachelor,36397,Djibouti,0.1,1481.9850000000001
+Customer 0273,39,Male,High School,74242,Slovenia,0.1,1371.21
+Customer 0274,62,Female,PhD,26846,Palau,1.0,23342.3
+Customer 0275,63,Male,Master,30147,Saint Kitts and Nevis,0.7,12955.144999999999
+Customer 0276,21,Female,Master,99186,Switzerland,1.0,16959.3
+Customer 0277,34,Female,PhD,74031,Sierra Leone,0.3,6510.464999999999
+Customer 0278,19,Female,Master,44968,Ukraine,0.7,9973.88
+Customer 0279,22,Female,High School,36169,Afghanistan,0.1,880.8450000000001
+Customer 0280,40,Male,Bachelor,72922,Serbia,1.0,16646.1
+Customer 0281,62,Male,Master,79831,Gabon,0.9,18892.395
+Customer 0282,65,Female,PhD,30544,Togo,0.1,2352.7200000000003
+Customer 0283,52,Female,Master,23643,Belgium,0.9,18163.935
+Customer 0284,24,Male,Master,66995,Spain,0.2,2669.9500000000003
+Customer 0285,48,Male,Bachelor,87711,Bouvet Island (Bouvetoya),0.5,8692.775
+Customer 0286,20,Male,PhD,64261,Northern Mariana Islands,0.3,4863.915
+Customer 0287,53,Male,Bachelor,42887,Netherlands Antilles,0.3,5143.304999999999
+Customer 0288,58,Male,Master,23125,Senegal,0.8,14525.0
+Customer 0289,58,Female,High School,49678,Liberia,0.4,6593.560000000001
+Customer 0290,58,Female,Master,42284,Ukraine,0.4,8445.68
+Customer 0291,40,Male,Bachelor,75148,Niue,0.8,13405.920000000002
+Customer 0292,41,Male,PhD,94044,Bouvet Island (Bouvetoya),0.1,2270.2200000000003
+Customer 0293,28,Male,PhD,42539,Ethiopia,0.3,5438.085
+Customer 0294,19,Male,Master,86858,Estonia,0.1,1434.2900000000002
+Customer 0295,20,Male,High School,95104,Hong Kong,1.0,9755.2
+Customer 0296,27,Male,PhD,23465,Croatia,0.7,12021.275
+Customer 0297,45,Female,Bachelor,38065,China,0.6,10141.949999999999
+Customer 0298,50,Male,PhD,29574,Nigeria,0.3,5843.61
+Customer 0299,44,Female,High School,76562,Lesotho,0.7,11079.67
+Customer 0300,33,Female,PhD,49495,Slovenia,0.7,14332.324999999999
+Customer 0301,33,Female,PhD,96202,Brazil,0.2,4562.0199999999995
+Customer 0302,34,Female,Master,91085,Zimbabwe,0.1,1955.4250000000002
+Customer 0303,56,Female,Bachelor,56212,Cyprus,0.1,1981.06
+Customer 0304,57,Female,PhD,33980,Afghanistan,0.9,21329.100000000002
+Customer 0305,21,Male,PhD,23512,Bosnia and Herzegovina,0.7,9922.92
+Customer 0306,64,Female,PhD,33738,Algeria,0.8,18949.52
+Customer 0307,56,Female,Bachelor,42230,Puerto Rico,0.6,11466.9
+Customer 0308,48,Female,Bachelor,97359,Jersey,0.5,9933.975
+Customer 0309,50,Male,Master,65274,Philippines,0.3,5479.11
+Customer 0310,58,Female,PhD,87989,British Indian Ocean Territory (Chagos Archipelago),0.1,2639.945
+Customer 0311,30,Female,Bachelor,96504,Aruba,0.6,10695.12
+Customer 0312,36,Female,High School,58156,Tokelau,0.9,13417.02
+Customer 0313,45,Male,PhD,55267,Turkmenistan,0.7,14534.344999999998
+Customer 0314,64,Male,Master,37584,Liberia,0.3,5663.76
+Customer 0315,25,Female,Bachelor,24092,Central African Republic,0.7,7843.219999999999
+Customer 0316,54,Female,PhD,29983,Northern Mariana Islands,0.2,4699.830000000001
+Customer 0317,45,Male,Bachelor,40049,Lao People's Democratic Republic,0.4,6000.9800000000005
+Customer 0318,28,Male,High School,88852,Tanzania,0.3,3732.7799999999997
+Customer 0319,49,Female,Master,63931,Monaco,0.2,4039.31
+Customer 0320,44,Female,Bachelor,64888,Kiribati,0.9,16419.960000000003
+Customer 0321,39,Male,PhD,92807,Andorra,0.5,11320.175
+Customer 0322,33,Female,Master,71152,Sweden,0.8,14846.08
+Customer 0323,50,Female,PhD,73254,Palestinian Territory,0.2,4732.54
+Customer 0324,61,Male,Bachelor,20644,Poland,1.0,16032.2
+Customer 0325,56,Male,Bachelor,98090,Niue,1.0,19904.5
+Customer 0326,50,Male,Master,42103,Nigeria,0.7,11973.605
+Customer 0327,23,Male,High School,35125,Colombia,0.6,4053.75
+Customer 0328,64,Female,Master,34174,Pitcairn Islands,0.8,16566.960000000003
+Customer 0329,41,Female,PhD,49978,Guinea,0.3,6749.67
+Customer 0330,53,Male,Bachelor,23379,American Samoa,0.3,4850.685
+Customer 0331,51,Female,Bachelor,77433,Saint Barthelemy,0.7,14610.155
+Customer 0332,34,Male,Bachelor,70884,Kiribati,0.3,4363.26
+Customer 0333,46,Male,PhD,31376,Mauritius,1.0,19568.8
+Customer 0334,43,Female,Bachelor,86426,Taiwan,0.8,15457.04
+Customer 0335,20,Female,High School,55217,Kyrgyz Republic,0.9,8784.765000000001
+Customer 0336,49,Female,PhD,54774,Cyprus,0.3,6821.61
+Customer 0337,32,Female,Bachelor,59643,Burundi,1.0,15982.15
+Customer 0338,27,Female,High School,28977,Bouvet Island (Bouvetoya),0.8,9159.08
+Customer 0339,43,Female,High School,54803,Madagascar,0.8,11792.12
+Customer 0340,32,Male,Master,38490,Northern Mariana Islands,0.6,8954.699999999999
+Customer 0341,24,Male,High School,37931,Singapore,1.0,6896.55
+Customer 0342,53,Male,High School,24333,Malawi,0.7,9251.654999999999
+Customer 0343,53,Female,High School,81992,Turkmenistan,0.9,16289.64
+Customer 0344,40,Female,High School,20674,Mongolia,0.4,5213.4800000000005
+Customer 0345,32,Female,Master,55973,Korea,0.4,7119.460000000001
+Customer 0346,18,Female,Master,86712,Mongolia,0.6,9801.36
+Customer 0347,23,Male,Master,95191,British Indian Ocean Territory (Chagos Archipelago),0.7,10331.685
+Customer 0348,32,Female,PhD,39067,Marshall Islands,0.4,7981.34
+Customer 0349,36,Male,PhD,67076,Eritrea,0.5,10676.9
+Customer 0350,42,Male,High School,72585,Gambia,0.6,8177.549999999999
+Customer 0351,50,Female,Bachelor,69012,Lithuania,0.6,11070.359999999999
+Customer 0352,45,Female,Master,72543,Armenia,0.5,10313.575
+Customer 0353,24,Female,Master,35810,Turks and Caicos Islands,0.8,11032.400000000001
+Customer 0354,27,Female,Bachelor,44502,South Africa,0.6,9135.06
+Customer 0355,49,Male,High School,70319,Egypt,0.7,9461.164999999999
+Customer 0356,47,Female,Bachelor,72335,Uruguay,0.9,16755.075
+Customer 0357,37,Female,Bachelor,61225,Slovenia,0.9,16255.125
+Customer 0358,61,Male,High School,81835,Wallis and Futuna,0.6,9655.05
+Customer 0359,43,Male,PhD,26373,Hungary,1.0,19318.65
+Customer 0360,20,Female,High School,54532,French Southern Territories,0.4,3890.6400000000003
+Customer 0361,64,Female,Bachelor,34825,Solomon Islands,0.3,5622.375
+Customer 0362,62,Female,High School,50635,Lesotho,0.1,1653.1750000000002
+Customer 0363,18,Female,High School,36994,Cocos (Keeling) Islands,0.2,1769.9400000000003
+Customer 0364,56,Male,High School,81091,Eritrea,0.4,6421.82
+Customer 0365,18,Female,High School,90376,Timor-Leste,0.3,3455.64
+Customer 0366,32,Male,PhD,70060,Guatemala,0.8,15602.400000000001
+Customer 0367,18,Female,Bachelor,69970,Fiji,0.1,1349.8500000000001
+Customer 0368,57,Female,High School,96390,Tonga,0.6,11291.699999999999
+Customer 0369,63,Female,Master,79495,Iraq,0.3,6892.425
+Customer 0370,56,Male,Master,33534,Tonga,0.2,3735.34
+Customer 0371,35,Male,Bachelor,37813,Croatia,0.7,9023.455
+Customer 0372,31,Female,Bachelor,75203,Gabon,0.9,15084.135000000002
+Customer 0373,50,Male,High School,82208,Pakistan,0.2,2822.0800000000004
+Customer 0374,50,Female,PhD,43419,Norway,0.8,17736.760000000002
+Customer 0375,53,Female,Bachelor,74554,Cape Verde,0.5,10363.85
+Customer 0376,42,Male,Master,50613,Anguilla,0.8,14024.520000000002
+Customer 0377,33,Female,PhD,73776,Trinidad and Tobago,0.1,2168.88
+Customer 0378,46,Male,PhD,78468,Mozambique,0.4,8769.36
+Customer 0379,45,Male,Master,82551,Bahamas,0.8,15302.04
+Customer 0380,27,Male,PhD,57161,Afghanistan,0.6,11314.83
+Customer 0381,59,Female,Bachelor,88469,Germany,0.2,4284.6900000000005
+Customer 0382,30,Female,High School,27732,Maldives,0.3,3415.98
+Customer 0383,39,Male,Master,41018,Nigeria,0.8,13640.720000000001
+Customer 0384,42,Male,PhD,85024,Aruba,0.4,8900.480000000001
+Customer 0385,28,Female,High School,64428,Austria,0.9,11899.26
+Customer 0386,30,Female,Bachelor,88053,Saint Barthelemy,0.9,15662.385000000002
+Customer 0387,63,Female,Bachelor,84676,Greece,1.0,21233.8
+Customer 0388,31,Female,High School,51846,Svalbard & Jan Mayen Islands,0.8,10073.84
+Customer 0389,56,Female,Bachelor,20067,Taiwan,0.1,1800.335
+Customer 0390,21,Male,Bachelor,78093,Philippines,1.0,11904.65
+Customer 0391,32,Male,PhD,57538,North Macedonia,0.6,11326.140000000001
+Customer 0392,49,Male,Bachelor,68842,Mongolia,0.9,14797.89
+Customer 0393,40,Female,PhD,77527,Botswana,0.6,14325.81
+Customer 0394,47,Male,Bachelor,48806,Guyana,0.2,3088.06
+Customer 0395,27,Female,PhD,90856,Hong Kong,0.4,9017.12
+Customer 0396,41,Male,High School,73233,Guadeloupe,0.4,5464.66
+Customer 0397,23,Female,PhD,90889,New Caledonia,0.4,7817.780000000001
+Customer 0398,58,Male,Bachelor,89578,Guam,0.8,15583.120000000003
+Customer 0399,37,Female,High School,30260,Myanmar,1.0,13513.0
+Customer 0400,64,Female,High School,46732,Swaziland,0.7,11435.619999999999
+Customer 0401,57,Female,Master,30972,Algeria,0.1,2054.86
+Customer 0402,33,Male,Master,40103,Portugal,0.8,12004.12
+Customer 0403,34,Male,PhD,56497,Tanzania,0.4,7529.94
+Customer 0404,42,Female,Master,49924,Norway,1.0,19496.2
+Customer 0405,34,Male,High School,40288,Belgium,0.6,6008.639999999999
+Customer 0406,58,Female,High School,89116,Bahamas,0.8,14764.64
+Customer 0407,45,Female,PhD,23183,Germany,0.2,4231.830000000001
+Customer 0408,45,Male,Bachelor,24079,South Africa,0.2,2840.7900000000004
+Customer 0409,63,Female,Bachelor,24166,Kuwait,0.5,9104.15
+Customer 0410,34,Female,High School,65065,Belize,0.5,6626.625
+Customer 0411,41,Male,High School,64400,Germany,0.9,11898.0
+Customer 0412,53,Male,Bachelor,84940,Slovenia,0.1,1924.7
+Customer 0413,58,Female,Master,38044,Saint Vincent and the Grenadines,0.6,12541.32
+Customer 0414,24,Female,High School,52967,Turkey,1.0,9648.35
+Customer 0415,24,Male,Bachelor,83605,Cuba,0.1,1218.025
+Customer 0416,51,Male,Master,32689,Algeria,0.9,16771.005
+Customer 0417,63,Male,Bachelor,50166,British Indian Ocean Territory (Chagos Archipelago),0.7,12255.81
+Customer 0418,30,Female,Master,40704,Poland,0.5,8517.6
+Customer 0419,64,Female,Bachelor,48320,Czech Republic,0.8,15532.800000000001
+Customer 0420,38,Male,Master,93544,Togo,0.1,1967.7200000000003
+Customer 0421,23,Female,Master,62371,Barbados,0.1,1511.855
+Customer 0422,23,Male,Master,35028,Gabon,0.3,3525.4199999999996
+Customer 0423,63,Female,Bachelor,87201,Chile,0.9,19224.045
+Customer 0424,40,Female,High School,74344,Central African Republic,0.9,14145.480000000001
+Customer 0425,52,Female,High School,30534,Sri Lanka,1.0,15526.7
+Customer 0426,47,Female,Bachelor,58871,Netherlands Antilles,0.4,7177.42
+Customer 0427,58,Female,Master,24108,United States of America,0.1,2020.5400000000002
+Customer 0428,18,Female,High School,61040,Zambia,0.6,6031.2
+Customer 0429,53,Female,High School,52612,Andorra,0.9,14967.539999999999
+Customer 0430,26,Female,High School,70936,Congo,0.7,9482.759999999998
+Customer 0431,35,Male,Master,60992,Cook Islands,0.9,14444.640000000001
+Customer 0432,49,Female,High School,75529,Palau,0.6,9465.87
+Customer 0433,28,Male,Bachelor,82563,Congo,0.7,10589.705
+Customer 0434,19,Male,High School,60409,Fiji,0.2,1604.0900000000001
+Customer 0435,29,Male,PhD,21991,Svalbard & Jan Mayen Islands,0.6,10259.73
+Customer 0436,51,Female,High School,89118,Cote d'Ivoire,0.4,7382.360000000001
+Customer 0437,49,Female,Master,72981,Saint Martin,0.7,14454.335
+Customer 0438,48,Male,Bachelor,88712,Jamaica,0.6,10461.359999999999
+Customer 0439,30,Male,Bachelor,49007,United States Minor Outlying Islands,0.5,6725.175
+Customer 0440,27,Male,Master,91325,Cook Islands,0.1,1756.625
+Customer 0441,29,Male,PhD,40557,Guinea,0.4,7211.139999999999
+Customer 0442,53,Male,Bachelor,52499,Norfolk Island,0.9,15862.455000000002
+Customer 0443,37,Male,PhD,46186,Italy,0.1,2030.93
+Customer 0444,44,Male,PhD,86260,Moldova,0.7,15619.099999999999
+Customer 0445,31,Female,PhD,33505,El Salvador,0.3,5902.575
+Customer 0446,23,Male,High School,21382,Congo,0.4,2427.6400000000003
+Customer 0447,65,Female,PhD,56148,Panama,0.7,17365.18
+Customer 0448,40,Female,Master,30044,Colombia,0.3,5550.66
+Customer 0449,55,Male,Bachelor,25943,Bahrain,0.1,1629.7150000000001
+Customer 0450,50,Male,PhD,52635,Palestinian Territory,0.8,16505.4
+Customer 0451,63,Male,Master,21768,Liechtenstein,1.0,18088.4
+Customer 0452,27,Female,Master,68106,Moldova,0.5,9202.65
+Customer 0453,50,Female,Bachelor,22949,Ireland,0.8,12917.960000000001
+Customer 0454,64,Male,PhD,64482,Slovenia,0.8,18579.28
+Customer 0455,37,Female,Bachelor,82317,Bangladesh,0.5,9557.925
+Customer 0456,62,Female,Master,99048,Tonga,0.7,16766.68
+Customer 0457,43,Female,Master,94017,United States of America,0.4,8680.34
+Customer 0458,30,Female,Bachelor,54754,Marshall Islands,0.9,14163.93
+Customer 0459,28,Male,PhD,64789,French Polynesia,0.5,9619.725
+Customer 0460,45,Female,PhD,89038,Maldives,0.1,2445.19
+Customer 0461,64,Male,Master,80138,Malta,0.2,4201.38
+Customer 0462,19,Male,High School,53600,Brunei Darussalam,0.1,768.0
+Customer 0463,31,Male,Bachelor,67235,Lao People's Democratic Republic,1.0,14361.75
+Customer 0464,35,Male,High School,22706,Comoros,1.0,9135.3
+Customer 0465,28,Female,Bachelor,71517,Peru,0.8,13260.68
+Customer 0466,65,Female,Master,31509,Djibouti,1.0,20575.45
+Customer 0467,45,Male,High School,42569,Russian Federation,0.1,1212.845
+Customer 0468,56,Female,Master,47343,Netherlands Antilles,0.7,14957.005
+Customer 0469,30,Female,Bachelor,43437,Bahrain,0.8,12137.480000000001
+Customer 0470,60,Male,PhD,96913,Pakistan,0.4,9938.260000000002
+Customer 0471,18,Male,PhD,99230,Antarctica (the territory South of 60 deg S),0.1,1796.15
+Customer 0472,59,Male,High School,74961,Norway,0.5,7874.025
+Customer 0473,39,Male,High School,64450,Reunion,0.3,3966.75
+Customer 0474,38,Female,PhD,83078,Mozambique,1.0,24153.9
+Customer 0475,39,Female,High School,80117,Swaziland,0.3,4801.755
+Customer 0476,24,Female,PhD,99692,Algeria,0.8,15987.68
+Customer 0477,44,Male,PhD,36567,Mongolia,0.2,3965.67
+Customer 0478,55,Male,Bachelor,83213,Mauritania,0.5,9580.325
+Customer 0479,61,Male,PhD,54370,Niger,0.5,11359.25
+Customer 0480,25,Female,High School,21058,Guinea,0.1,805.29
+Customer 0481,56,Male,Bachelor,36104,Sri Lanka,0.7,11763.64
+Customer 0482,42,Female,High School,61063,Turkmenistan,0.3,4515.945
+Customer 0483,23,Female,Bachelor,26384,Saint Barthelemy,0.4,4527.68
+Customer 0484,44,Male,High School,98522,Bahamas,0.7,10448.27
+Customer 0485,26,Female,PhD,73047,Russian Federation,0.9,19487.114999999998
+Customer 0486,21,Female,Bachelor,93474,Guernsey,0.3,4402.11
+Customer 0487,59,Male,Bachelor,31702,Peru,1.0,16585.1
+Customer 0488,48,Female,Master,53123,North Macedonia,0.4,7862.460000000001
+Customer 0489,43,Male,High School,88612,Cyprus,0.2,2886.1200000000003
+Customer 0490,18,Female,Bachelor,38461,Rwanda,0.9,10730.744999999999
+Customer 0491,26,Male,Master,20842,Pitcairn Islands,0.6,8425.26
+Customer 0492,27,Female,High School,31290,Bermuda,0.6,6938.7
+Customer 0493,31,Female,PhD,63491,United Kingdom,0.8,16939.64
+Customer 0494,48,Male,High School,61356,Micronesia,0.8,10454.24
+Customer 0495,42,Female,PhD,92257,Sierra Leone,0.7,17228.995
+Customer 0496,51,Male,Bachelor,38838,Ukraine,0.7,11859.33
+Customer 0497,50,Female,Bachelor,29236,Ukraine,0.3,4938.54
+Customer 0498,27,Male,PhD,94082,Western Sahara,0.2,4140.82
+Customer 0499,60,Male,Master,94093,Greenland,0.5,10852.325
+Customer 0500,40,Female,PhD,97525,Timor-Leste,0.6,14925.75
+Customer 0501,65,Female,Master,50447,Sweden,0.9,19370.114999999998
+Customer 0502,20,Female,Master,64861,Congo,0.9,13718.744999999999
+Customer 0503,18,Male,High School,82297,Uganda,0.2,1822.9700000000003
+Customer 0504,41,Female,Bachelor,91532,Nepal,0.1,1957.6599999999999
+Customer 0505,51,Male,High School,94698,Namibia,0.6,10040.94
+Customer 0506,20,Female,Bachelor,64683,Austria,0.5,6617.075
+Customer 0507,49,Female,PhD,20170,Nauru,0.4,8403.4
+Customer 0508,59,Female,Master,41065,Lebanon,0.1,2105.3250000000003
+Customer 0509,65,Female,Bachelor,70498,Saudi Arabia,0.5,10262.45
+Customer 0510,61,Female,Bachelor,23577,Sweden,0.8,14543.08
+Customer 0511,57,Male,PhD,61320,Uganda,1.0,23066.0
+Customer 0512,38,Female,Bachelor,87161,Japan,0.7,13550.634999999998
+Customer 0513,43,Male,Master,69936,Somalia,0.5,9248.4
+Customer 0514,33,Male,Master,51692,Costa Rica,0.9,14026.140000000001
+Customer 0515,55,Female,PhD,51216,Saint Lucia,1.0,24560.8
+Customer 0516,39,Male,Master,51925,French Southern Territories,0.3,5278.875
+Customer 0517,34,Male,High School,78575,Afghanistan,0.8,9543.0
+Customer 0518,31,Male,Master,99329,Mongolia,0.4,7186.580000000001
+Customer 0519,63,Male,PhD,47563,Ecuador,0.5,11189.075
+Customer 0520,42,Female,Bachelor,66392,United Arab Emirates,0.7,12823.719999999998
+Customer 0521,38,Male,High School,45177,Palestinian Territory,0.4,4903.54
+Customer 0522,56,Male,PhD,30608,Namibia,0.5,10765.2
+Customer 0523,50,Female,PhD,75021,Saint Lucia,0.6,14250.63
+Customer 0524,61,Female,High School,35077,Sweden,0.1,1575.3850000000002
+Customer 0525,39,Male,Master,93240,Norfolk Island,0.8,15729.6
+Customer 0526,37,Female,PhD,69148,Colombia,0.4,9382.960000000001
+Customer 0527,61,Male,High School,31959,Sweden,0.9,12238.155
+Customer 0528,19,Female,High School,93860,Uzbekistan,0.4,4677.2
+Customer 0529,19,Male,High School,60906,Isle of Man,0.2,1609.0600000000002
+Customer 0530,55,Female,Bachelor,95467,Ukraine,1.0,21773.35
+Customer 0531,51,Male,Master,58729,Ecuador,0.3,5980.935
+Customer 0532,29,Male,Bachelor,37052,British Virgin Islands,0.4,5141.040000000001
+Customer 0533,34,Female,Master,39040,Sri Lanka,1.0,16952.0
+Customer 0534,35,Male,High School,37871,Luxembourg,0.7,6925.484999999999
+Customer 0535,29,Male,High School,66065,Bahamas,0.9,10172.925000000001
+Customer 0536,60,Female,Bachelor,55501,Tajikistan,0.2,3955.01
+Customer 0537,64,Female,Bachelor,20533,Nicaragua,0.3,5407.995
+Customer 0538,31,Male,PhD,36666,Greece,0.3,5349.99
+Customer 0539,49,Male,Master,48834,Papua New Guinea,0.3,5232.51
+Customer 0540,47,Female,PhD,50335,Kiribati,0.5,11258.375
+Customer 0541,61,Male,High School,65849,Marshall Islands,0.8,12233.960000000001
+Customer 0542,35,Female,Master,48556,Marshall Islands,0.5,8713.9
+Customer 0543,53,Female,High School,42963,Zambia,0.7,11303.705
+Customer 0544,25,Male,Bachelor,80400,Kazakhstan,0.3,3606.0
+Customer 0545,45,Female,Bachelor,43283,Turkmenistan,0.2,3432.8300000000004
+Customer 0546,34,Female,Master,69305,Taiwan,0.9,16618.725000000002
+Customer 0547,21,Female,PhD,70325,Saint Kitts and Nevis,0.9,16664.625
+Customer 0548,26,Male,High School,60028,Saudi Arabia,1.0,11001.4
+Customer 0549,46,Female,Bachelor,81434,Taiwan,0.4,7628.68
+Customer 0550,43,Male,High School,90163,Ethiopia,0.7,10155.705
+Customer 0551,25,Female,Bachelor,24231,Antigua and Barbuda,0.4,4484.62
+Customer 0552,32,Male,High School,98447,Jordan,0.7,9045.645
+Customer 0553,44,Male,Bachelor,88896,Indonesia,0.4,6977.92
+Customer 0554,31,Female,High School,45095,Madagascar,0.2,2450.9500000000003
+Customer 0555,50,Male,Bachelor,92120,Saint Kitts and Nevis,1.0,17606.0
+Customer 0556,51,Female,PhD,54353,Bermuda,0.8,19774.120000000003
+Customer 0557,58,Male,Master,65268,Russian Federation,0.4,8105.360000000001
+Customer 0558,62,Male,Bachelor,77742,North Macedonia,0.4,7554.84
+Customer 0559,51,Male,High School,38788,Guam,0.4,5575.76
+Customer 0560,47,Female,High School,99203,Northern Mariana Islands,0.5,8480.075
+Customer 0561,59,Female,PhD,63128,Nigeria,0.5,12578.2
+Customer 0562,60,Male,High School,85056,Suriname,0.6,9751.679999999998
+Customer 0563,57,Male,Bachelor,37838,Bulgaria,0.7,11824.33
+Customer 0564,33,Male,PhD,57081,Saudi Arabia,0.3,5656.214999999999
+Customer 0565,51,Female,Bachelor,35172,United Kingdom,0.9,16882.739999999998
+Customer 0566,38,Female,High School,67119,Albania,0.4,6142.380000000001
+Customer 0567,30,Female,PhD,69656,Palau,0.7,15037.96
+Customer 0568,20,Male,PhD,30106,Iceland,0.5,7252.65
+Customer 0569,58,Male,Bachelor,98952,Guatemala,0.8,15958.08
+Customer 0570,40,Male,Bachelor,95054,Micronesia,0.7,12426.89
+Customer 0571,34,Male,High School,40680,Gambia,0.3,3010.2
+Customer 0572,46,Female,Bachelor,25021,Comoros,0.5,8125.525
+Customer 0573,48,Male,Master,32913,Lebanon,0.2,3329.1300000000006
+Customer 0574,49,Male,High School,23946,United States Virgin Islands,1.0,11197.3
+Customer 0575,23,Female,Master,96787,Syrian Arab Republic,0.5,8419.675
+Customer 0576,62,Female,Bachelor,51141,Qatar,0.2,3911.41
+Customer 0577,61,Male,PhD,51875,Swaziland,0.1,2259.375
+Customer 0578,32,Male,Bachelor,40230,Morocco,1.0,13011.5
+Customer 0579,57,Male,High School,33841,Cook Islands,0.5,6846.025
+Customer 0580,24,Female,PhD,95654,Mozambique,0.5,9891.35
+Customer 0581,55,Female,High School,29796,Mauritania,0.3,4646.94
+Customer 0582,46,Male,Master,63628,Montserrat,0.5,9090.7
+Customer 0583,58,Female,PhD,22906,Jamaica,0.5,11572.65
+Customer 0584,59,Male,Bachelor,31684,Jordan,1.0,16584.2
+Customer 0585,64,Male,Bachelor,88536,Ghana,0.4,7770.72
+Customer 0586,46,Female,High School,52831,Luxembourg,0.7,10249.085
+Customer 0587,55,Male,Master,94643,Hungary,0.9,19558.935
+Customer 0588,42,Male,Master,32443,Saint Vincent and the Grenadines,0.8,13297.720000000001
+Customer 0589,59,Female,Bachelor,54317,Poland,0.5,9857.925
+Customer 0590,23,Female,Bachelor,78974,Korea,0.1,1394.8700000000001
+Customer 0591,42,Female,High School,57400,Mozambique,0.9,13383.0
+Customer 0592,57,Female,PhD,94573,Saint Helena,0.9,24055.785000000003
+Customer 0593,30,Male,High School,54968,Netherlands,0.2,2149.68
+Customer 0594,42,Female,Bachelor,83543,Syrian Arab Republic,0.8,15341.720000000001
+Customer 0595,34,Female,Bachelor,99780,Paraguay,0.8,14391.2
+Customer 0596,35,Male,High School,47230,Benin,0.6,6216.9
+Customer 0597,34,Male,High School,77157,Armenia,0.5,5928.925
+Customer 0598,38,Male,Master,73779,Cuba,0.3,5606.685
+Customer 0599,59,Male,Bachelor,66856,Fiji,0.8,14674.24
+Customer 0600,46,Male,Master,76057,Guam,0.7,13161.994999999999
+Customer 0601,44,Female,High School,31507,Madagascar,0.9,12217.815
+Customer 0602,46,Male,High School,22038,El Salvador,0.9,9991.71
+Customer 0603,62,Female,PhD,51122,Nigeria,0.7,17189.269999999997
+Customer 0604,58,Male,PhD,27508,Greenland,0.5,10687.7
+Customer 0605,56,Male,Master,56511,French Polynesia,0.9,17842.995
+Customer 0606,25,Female,High School,38933,Libyan Arab Jamahiriya,0.1,894.665
+Customer 0607,23,Female,Master,79288,Mauritius,0.4,6385.76
+Customer 0608,33,Female,PhD,54278,Bahamas,0.9,18642.510000000002
+Customer 0609,28,Female,PhD,21946,Lesotho,0.2,3819.46
+Customer 0610,18,Male,Master,47226,Reunion,0.5,6180.65
+Customer 0611,52,Male,Master,32127,Guam,0.2,3721.27
+Customer 0612,52,Female,High School,52222,France,0.2,3322.22
+Customer 0613,61,Male,PhD,41702,Kenya,0.3,6625.53
+Customer 0614,47,Female,Bachelor,77652,Nepal,1.0,18882.6
+Customer 0615,19,Female,High School,36082,Argentina,0.2,1760.8200000000002
+Customer 0616,37,Male,PhD,47349,India,0.5,10183.725
+Customer 0617,64,Female,Bachelor,80701,Bahrain,1.0,21035.05
+Customer 0618,50,Female,Bachelor,75766,Palau,0.1,1878.83
+Customer 0619,55,Female,Bachelor,57131,Saint Kitts and Nevis,0.6,11913.929999999998
+Customer 0620,50,Female,PhD,81283,Romania,0.5,12032.075
+Customer 0621,40,Female,Bachelor,44445,Lao People's Democratic Republic,0.4,6888.900000000001
+Customer 0622,47,Female,High School,68799,Angola,0.8,12351.960000000001
+Customer 0623,57,Female,Bachelor,22754,Cameroon,0.2,3627.5400000000004
+Customer 0624,47,Male,Bachelor,70944,Congo,1.0,16547.2
+Customer 0625,39,Male,High School,84427,Madagascar,0.7,9954.945
+Customer 0626,47,Female,Master,21561,Malta,0.4,7231.22
+Customer 0627,54,Male,High School,84271,Ethiopia,0.3,4864.065
+Customer 0628,60,Male,PhD,56561,Congo,0.4,9131.22
+Customer 0629,23,Female,High School,91375,Guyana,0.8,9255.0
+Customer 0630,63,Female,High School,45910,Nicaragua,1.0,16295.5
+Customer 0631,36,Female,PhD,87348,Israel,0.5,12183.7
+Customer 0632,22,Male,High School,65368,Central African Republic,0.7,5787.879999999999
+Customer 0633,59,Female,PhD,50435,Italy,0.5,12260.875
+Customer 0634,49,Female,High School,77006,Monaco,0.5,7925.15
+Customer 0635,61,Female,Bachelor,72308,Mexico,0.7,14430.78
+Customer 0636,43,Female,PhD,91783,Haiti,0.6,14753.49
+Customer 0637,37,Female,Bachelor,65437,Palestinian Territory,0.1,1827.185
+Customer 0638,45,Female,PhD,60679,Angola,0.2,4606.79
+Customer 0639,61,Male,Master,50282,French Guiana,0.7,13659.869999999999
+Customer 0640,19,Female,Bachelor,43992,Ethiopia,0.8,9759.68
+Customer 0641,22,Male,Bachelor,99160,Ukraine,0.1,1295.8000000000002
+Customer 0642,32,Male,High School,88182,Armenia,0.7,8686.369999999999
+Customer 0643,61,Female,Bachelor,57937,Ireland,0.7,13927.794999999998
+Customer 0644,46,Female,High School,40892,Venezuela,0.8,11235.68
+Customer 0645,28,Male,High School,82075,Lesotho,0.5,6051.875
+Customer 0646,64,Female,Master,71273,French Southern Territories,0.1,2256.3650000000002
+Customer 0647,55,Female,Master,80464,Serbia,0.2,4604.64
+Customer 0648,21,Female,Bachelor,79609,Saint Barthelemy,0.5,6990.225
+Customer 0649,53,Male,PhD,28918,Peru,0.7,15012.13
+Customer 0650,20,Male,High School,68345,Israel,0.1,841.725
+Customer 0651,36,Female,High School,20153,Zimbabwe,0.1,1300.765
+Customer 0652,57,Male,Bachelor,97851,Azerbaijan,0.3,5967.764999999999
+Customer 0653,48,Male,Bachelor,22650,Gibraltar,0.9,12719.25
+Customer 0654,26,Male,High School,28561,Cayman Islands,1.0,9428.05
+Customer 0655,60,Male,Bachelor,33121,Canada,0.8,13324.84
+Customer 0656,45,Male,High School,82073,Seychelles,0.8,11282.920000000002
+Customer 0657,50,Male,High School,38113,Tonga,0.6,7143.389999999999
+Customer 0658,64,Female,Bachelor,30583,Guam,0.9,16676.235
+Customer 0659,20,Male,High School,69563,Wallis and Futuna,0.6,5086.889999999999
+Customer 0660,51,Female,PhD,60201,Zambia,0.4,10004.02
+Customer 0661,54,Male,Bachelor,99292,Guyana,0.7,13975.219999999998
+Customer 0662,41,Female,Master,86244,Libyan Arab Jamahiriya,0.6,12787.32
+Customer 0663,19,Male,High School,38759,Tuvalu,0.5,3468.975
+Customer 0664,65,Male,Bachelor,44407,British Indian Ocean Territory (Chagos Archipelago),0.2,3444.0699999999997
+Customer 0665,49,Female,Bachelor,56112,Comoros,0.5,8902.8
+Customer 0666,26,Male,Bachelor,66045,Libyan Arab Jamahiriya,0.6,8581.35
+Customer 0667,30,Male,PhD,38954,Brazil,0.5,8973.85
+Customer 0668,38,Male,High School,51845,Philippines,0.6,7555.349999999999
+Customer 0669,43,Male,Master,70837,Martinique,0.9,16687.665
+Customer 0670,40,Male,Master,50352,British Indian Ocean Territory (Chagos Archipelago),0.7,12262.319999999998
+Customer 0671,20,Female,Master,40872,South Georgia and the South Sandwich Islands,0.5,7021.8
+Customer 0672,20,Female,High School,63899,Tonga,0.7,7136.465
+Customer 0673,18,Female,Bachelor,43490,United States Minor Outlying Islands,0.5,6087.25
+Customer 0674,41,Male,Bachelor,85198,Georgia,0.4,6903.960000000001
+Customer 0675,54,Male,PhD,57376,Canada,0.1,2286.88
+Customer 0676,34,Male,High School,99532,Saint Pierre and Miquelon,0.3,3892.98
+Customer 0677,39,Male,PhD,50697,French Guiana,1.0,20534.85
+Customer 0678,53,Male,High School,91185,Canada,0.4,6623.700000000001
+Customer 0679,47,Female,Master,65435,Mozambique,0.6,12163.05
+Customer 0680,25,Male,PhD,67668,Faroe Islands,0.3,4915.0199999999995
+Customer 0681,48,Male,PhD,98627,Bouvet Island (Bouvetoya),0.1,2293.1349999999998
+Customer 0682,60,Male,PhD,74182,Saint Barthelemy,0.7,16596.37
+Customer 0683,28,Male,PhD,69974,Bhutan,0.8,15598.960000000001
+Customer 0684,65,Male,Master,28279,Ireland,0.3,5524.185
+Customer 0685,54,Male,Master,44193,Saint Kitts and Nevis,0.2,3841.9300000000003
+Customer 0686,27,Female,Bachelor,72157,Mauritania,0.5,8303.925
+Customer 0687,51,Female,Master,90579,Morocco,0.7,16470.265
+Customer 0688,49,Female,High School,52873,Rwanda,1.0,14643.65
+Customer 0689,38,Female,Master,57342,Netherlands,0.7,13906.969999999998
+Customer 0690,56,Male,PhD,87337,Turks and Caicos Islands,0.9,21930.165
+Customer 0691,30,Female,Master,73303,New Caledonia,0.1,1866.5150000000003
+Customer 0692,19,Female,High School,56471,Bahamas,0.1,982.355
+Customer 0693,19,Female,PhD,89930,Finland,0.6,11697.9
+Customer 0694,53,Female,PhD,92860,Turkey,0.8,21314.4
+Customer 0695,55,Male,High School,99582,Namibia,0.6,10187.46
+Customer 0696,31,Female,PhD,28740,Venezuela,0.4,7774.8
+Customer 0697,24,Male,PhD,36870,Belize,0.8,11874.800000000001
+Customer 0698,38,Female,Bachelor,84060,Norfolk Island,0.5,9601.5
+Customer 0699,49,Female,Bachelor,25887,Italy,0.6,9776.61
+Customer 0700,50,Female,PhD,90137,Switzerland,1.0,24506.85
+Customer 0701,24,Female,Bachelor,86048,Palestinian Territory,0.3,4290.72
+Customer 0702,27,Male,Master,45501,Burkina Faso,0.1,1527.505
+Customer 0703,19,Female,PhD,30220,Ghana,1.0,16511.0
+Customer 0704,51,Male,Bachelor,81139,Nepal,1.0,19056.95
+Customer 0705,26,Female,High School,59644,Mayotte,0.6,7789.32
+Customer 0706,26,Female,Master,25604,Saint Pierre and Miquelon,0.6,9768.12
+Customer 0707,24,Male,High School,60165,Saint Pierre and Miquelon,0.5,4004.125
+Customer 0708,55,Female,Bachelor,20931,Cayman Islands,0.8,14437.24
+Customer 0709,43,Female,Bachelor,31970,Czech Republic,0.7,11618.949999999999
+Customer 0710,35,Female,PhD,84592,French Guiana,0.7,15560.719999999998
+Customer 0711,27,Female,Bachelor,75585,Micronesia,0.4,6711.700000000001
+Customer 0712,35,Male,Bachelor,80946,Korea,0.6,9028.38
+Customer 0713,41,Female,PhD,65035,Georgia,0.4,9300.7
+Customer 0714,28,Female,Bachelor,64545,Luxembourg,0.4,6490.900000000001
+Customer 0715,49,Male,High School,90344,Haiti,1.0,14517.2
+Customer 0716,56,Female,Master,42831,Japan,0.2,4228.31
+Customer 0717,60,Female,Bachelor,55692,Denmark,0.6,11870.759999999998
+Customer 0718,60,Male,High School,69655,Bermuda,0.6,9289.65
+Customer 0719,38,Female,Master,20197,Wallis and Futuna,0.4,7203.94
+Customer 0720,60,Female,Bachelor,42250,Australia,0.9,17201.25
+Customer 0721,28,Female,Bachelor,30401,Honduras,0.9,13068.045
+Customer 0722,34,Male,High School,69656,Nauru,0.2,2296.56
+Customer 0723,43,Female,PhD,38456,Rwanda,0.3,6576.839999999999
+Customer 0724,21,Male,Bachelor,35694,Latvia,0.7,6849.29
+Customer 0725,56,Male,Master,30726,Libyan Arab Jamahiriya,1.0,18536.3
+Customer 0726,55,Male,Bachelor,59600,Eritrea,0.7,12586.0
+Customer 0727,29,Female,Master,64265,Bolivia,0.3,5463.974999999999
+Customer 0728,59,Female,Master,43226,Congo,0.3,6348.389999999999
+Customer 0729,64,Male,Bachelor,88173,Barbados,0.6,11645.19
+Customer 0730,61,Female,High School,63517,Georgia,0.9,15458.265
+Customer 0731,45,Female,PhD,27374,Turks and Caicos Islands,0.3,6410.61
+Customer 0732,40,Male,PhD,49645,Benin,0.4,8192.9
+Customer 0733,22,Male,PhD,76912,Russian Federation,0.2,3369.12
+Customer 0734,41,Male,High School,62252,Senegal,0.3,3933.7799999999997
+Customer 0735,30,Male,Master,85087,Slovakia (Slovak Republic),0.6,10352.609999999999
+Customer 0736,55,Female,Master,58796,Chile,0.1,2193.98
+Customer 0737,57,Male,Master,45652,Palau,0.9,17354.34
+Customer 0738,53,Male,Master,77634,Korea,0.3,6264.51
+Customer 0739,25,Male,PhD,89489,French Southern Territories,0.9,15727.005000000001
+Customer 0740,53,Female,PhD,61615,Martinique,1.0,25080.75
+Customer 0741,39,Male,Master,84799,Chile,0.3,5771.985
+Customer 0742,51,Male,PhD,38324,Guernsey,0.1,2191.6200000000003
+Customer 0743,23,Male,Bachelor,34337,Eritrea,0.1,971.6850000000001
+Customer 0744,38,Female,Bachelor,28219,Tokelau,0.1,1641.0950000000003
+Customer 0745,32,Male,Master,70176,Taiwan,0.9,14857.92
+Customer 0746,57,Female,PhD,47499,Palestinian Territory,0.7,17062.465
+Customer 0747,64,Male,Bachelor,94575,Sao Tome and Principe,0.1,1972.875
+Customer 0748,46,Male,PhD,40115,British Indian Ocean Territory (Chagos Archipelago),0.4,8002.3
+Customer 0749,22,Male,Master,56774,Philippines,0.5,6419.35
+Customer 0750,46,Female,PhD,84377,Slovenia,0.6,14531.31
+Customer 0751,35,Female,PhD,90020,Holy See (Vatican City State),0.6,13500.6
+Customer 0752,43,Female,PhD,56741,Congo,0.1,2283.705
+Customer 0753,31,Female,Master,72843,United Kingdom,0.7,13049.505000000001
+Customer 0754,65,Male,Bachelor,82563,French Southern Territories,0.4,7651.260000000001
+Customer 0755,28,Male,High School,55478,Andorra,0.9,9696.51
+Customer 0756,50,Male,Bachelor,83564,Lebanon,0.2,3435.6400000000003
+Customer 0757,48,Male,PhD,44076,Israel,0.2,4040.76
+Customer 0758,21,Male,High School,32382,Cayman Islands,1.0,6619.1
+Customer 0759,26,Male,Bachelor,67068,Central African Republic,0.6,8612.039999999999
+Customer 0760,24,Male,PhD,84001,Burkina Faso,0.3,5160.014999999999
+Customer 0761,39,Male,Bachelor,98275,Japan,1.0,17913.75
+Customer 0762,46,Female,High School,38394,Belize,0.7,9743.789999999999
+Customer 0763,24,Male,Bachelor,43321,Congo,0.5,5083.025
+Customer 0764,35,Female,Bachelor,78404,Bouvet Island (Bouvetoya),0.6,10152.12
+Customer 0765,52,Male,High School,71944,Libyan Arab Jamahiriya,0.1,1559.7200000000003
+Customer 0766,21,Male,Master,77042,Aruba,0.4,5540.84
+Customer 0767,39,Female,High School,63019,Luxembourg,0.2,3030.1900000000005
+Customer 0768,48,Female,Master,52114,Barbados,0.7,13723.99
+Customer 0769,63,Male,Master,63459,Pitcairn Islands,0.3,6051.885
+Customer 0770,23,Female,PhD,20814,Namibia,1.0,16040.7
+Customer 0771,58,Male,Bachelor,93113,Western Sahara,1.0,19655.65
+Customer 0772,39,Female,High School,71060,Congo,0.5,7776.5
+Customer 0773,47,Female,High School,73015,Greece,0.1,1565.075
+Customer 0774,47,Male,Bachelor,59397,Cook Islands,0.6,9581.91
+Customer 0775,37,Male,PhD,78285,Saint Pierre and Miquelon,0.1,2191.425
+Customer 0776,56,Female,Bachelor,74277,Azerbaijan,0.1,2071.3849999999998
+Customer 0777,37,Male,Bachelor,30257,Belarus,0.7,10158.994999999999
+Customer 0778,50,Female,Bachelor,75070,Zimbabwe,0.6,11252.1
+Customer 0779,26,Female,Bachelor,30804,Venezuela,0.2,2908.0400000000004
+Customer 0780,33,Male,Bachelor,82700,Guinea,0.4,6054.0
+Customer 0781,19,Female,Master,54643,Singapore,0.6,8839.289999999999
+Customer 0782,55,Female,PhD,88051,French Southern Territories,0.1,2640.255
+Customer 0783,37,Female,PhD,49206,Sri Lanka,0.8,17968.24
+Customer 0784,18,Female,Master,48098,Ethiopia,1.0,14404.9
+Customer 0785,40,Female,Bachelor,43207,Papua New Guinea,0.5,8580.175
+Customer 0786,30,Male,Master,69542,Antigua and Barbuda,0.3,4943.129999999999
+Customer 0787,37,Female,Bachelor,73179,Egypt,0.1,1865.8950000000002
+Customer 0788,60,Male,Bachelor,71161,Azerbaijan,0.7,12990.634999999998
+Customer 0789,23,Male,Bachelor,90214,Morocco,0.2,2502.1400000000003
+Customer 0790,31,Female,PhD,93124,Zambia,1.0,22656.2
+Customer 0791,24,Male,Bachelor,99376,Slovakia (Slovak Republic),1.0,12968.8
+Customer 0792,56,Male,PhD,54101,Austria,0.4,9082.02
+Customer 0793,52,Male,PhD,29603,Denmark,0.1,2148.0150000000003
+Customer 0794,59,Male,Bachelor,42457,Togo,0.8,13698.279999999999
+Customer 0795,60,Male,Master,95351,Trinidad and Tobago,1.0,21767.55
+Customer 0796,23,Male,Master,91482,Madagascar,0.1,1457.41
+Customer 0797,57,Female,Master,91637,Sierra Leone,0.4,9432.74
+Customer 0798,55,Female,High School,95225,Niue,0.7,13132.875
+Customer 0799,40,Male,Master,56694,Guinea-Bissau,0.6,10700.82
+Customer 0800,24,Female,Bachelor,66151,Heard Island and McDonald Islands,0.1,1330.755
+Customer 0801,64,Male,PhD,21110,Ireland,0.7,14738.849999999999
+Customer 0802,32,Female,PhD,58522,India,0.1,2092.61
+Customer 0803,29,Female,High School,21794,Tokelau,0.1,1108.97
+Customer 0804,23,Male,PhD,70287,Saint Vincent and the Grenadines,1.0,16514.35
+Customer 0805,29,Male,High School,23907,Sierra Leone,0.1,919.5350000000001
+Customer 0806,43,Female,Master,42434,Barbados,0.7,13385.19
+Customer 0807,19,Female,PhD,87998,Netherlands Antilles,0.4,7759.960000000001
+Customer 0808,50,Female,Bachelor,24226,Malaysia,0.7,11347.909999999998
+Customer 0809,49,Male,Bachelor,64340,Liberia,0.8,12973.6
+Customer 0810,64,Male,Bachelor,47834,Angola,0.1,1739.17
+Customer 0811,30,Male,Master,62407,Kiribati,0.6,9672.21
+Customer 0812,64,Female,Bachelor,43658,Antarctica (the territory South of 60 deg S),1.0,19182.9
+Customer 0813,64,Female,Master,27243,Turks and Caicos Islands,0.7,14253.505000000001
+Customer 0814,25,Female,Bachelor,69806,Myanmar,0.4,5396.12
+Customer 0815,44,Female,Bachelor,93412,Thailand,0.8,15736.48
+Customer 0816,57,Female,High School,88787,Mongolia,0.4,7375.74
+Customer 0817,31,Female,PhD,49392,Korea,1.0,20469.6
+Customer 0818,64,Male,High School,40091,Sudan,0.3,4201.365
+Customer 0819,37,Male,Master,34914,Oman,0.3,5023.71
+Customer 0820,57,Male,PhD,53608,Togo,0.1,2268.0400000000004
+Customer 0821,41,Male,High School,87512,Brunei Darussalam,0.4,5750.240000000001
+Customer 0822,63,Female,Master,74625,Malaysia,0.1,2273.125
+Customer 0823,33,Female,Bachelor,64200,Libyan Arab Jamahiriya,0.2,3242.0
+Customer 0824,62,Female,PhD,68641,Peru,0.5,12716.025
+Customer 0825,21,Female,High School,67077,Cape Verde,0.5,5176.925
+Customer 0826,30,Female,Bachelor,51612,United States of America,0.4,6232.240000000001
+Customer 0827,30,Female,High School,90114,Oman,0.5,7252.85
+Customer 0828,60,Male,Master,71206,Sweden,0.1,2056.03
+Customer 0829,52,Male,PhD,34355,Bahamas,0.5,10858.875
+Customer 0830,63,Male,Master,31248,Azerbaijan,0.2,3712.4800000000005
+Customer 0831,50,Female,Master,43523,Spain,0.3,5752.845
+Customer 0832,25,Female,Master,42802,Sweden,0.8,11312.080000000002
+Customer 0833,36,Male,Bachelor,30182,Rwanda,0.8,11607.28
+Customer 0834,30,Female,PhD,55201,Afghanistan,0.6,12456.029999999999
+Customer 0835,24,Male,PhD,66037,Central African Republic,0.9,14671.665
+Customer 0836,26,Male,PhD,72566,Yemen,0.8,15702.64
+Customer 0837,38,Female,PhD,38475,Saint Kitts and Nevis,0.5,10961.875
+Customer 0838,20,Female,High School,80763,Portugal,1.0,11038.15
+Customer 0839,29,Male,High School,71628,Tuvalu,0.4,4632.56
+Customer 0840,36,Male,PhD,96477,Fiji,0.5,11411.925
+Customer 0841,52,Male,High School,72988,Algeria,0.7,10954.58
+Customer 0842,51,Female,Bachelor,52164,Maldives,0.3,5882.46
+Customer 0843,59,Male,High School,90162,Djibouti,1.0,16508.1
+Customer 0844,27,Female,Master,83622,Bahamas,0.9,17262.989999999998
+Customer 0845,33,Female,Bachelor,98404,Chile,1.0,17920.2
+Customer 0846,29,Female,Bachelor,22852,Congo,0.6,8485.56
+Customer 0847,27,Male,Master,99484,South Africa,0.4,7189.68
+Customer 0848,24,Male,PhD,88549,Brazil,1.0,17427.45
+Customer 0849,62,Female,Master,63928,Mongolia,1.0,22196.4
+Customer 0850,23,Male,High School,72951,French Guiana,0.5,4323.775
+Customer 0851,50,Female,Bachelor,97108,Myanmar,0.6,11913.24
+Customer 0852,34,Male,PhD,36687,Serbia,0.1,1783.435
+Customer 0853,60,Male,PhD,56832,Netherlands,0.6,13704.96
+Customer 0854,34,Female,High School,64992,New Caledonia,0.6,7949.76
+Customer 0855,58,Male,Master,67452,Burundi,0.6,12223.56
+Customer 0856,63,Female,Bachelor,22283,Puerto Rico,0.7,12679.905
+Customer 0857,58,Female,PhD,99016,Holy See (Vatican City State),0.1,2695.08
+Customer 0858,52,Male,Master,23171,Saint Martin,0.7,12710.984999999999
+Customer 0859,27,Male,Bachelor,26649,Afghanistan,0.9,11099.205000000002
+Customer 0860,36,Male,Master,51774,Nigeria,1.0,17588.7
+Customer 0861,23,Male,PhD,61600,Azerbaijan,0.5,8040.0
+Customer 0862,19,Male,PhD,56048,Reunion,0.7,11061.679999999998
+Customer 0863,31,Male,PhD,21424,Belgium,0.3,5121.36
+Customer 0864,18,Male,High School,32036,Guyana,0.6,3961.08
+Customer 0865,21,Male,Bachelor,85062,Pakistan,0.5,6126.55
+Customer 0866,37,Female,Master,85161,Vietnam,1.0,21258.05
+Customer 0867,50,Male,Bachelor,37027,Aruba,0.4,5940.540000000001
+Customer 0868,32,Male,Bachelor,33833,Switzerland,0.1,1269.165
+Customer 0869,56,Male,PhD,79396,Korea,0.8,19175.84
+Customer 0870,43,Male,Master,88436,Poland,0.4,7768.72
+Customer 0871,26,Female,Master,72673,Denmark,1.0,18633.65
+Customer 0872,51,Male,PhD,94796,Uganda,1.0,24739.8
+Customer 0873,33,Female,Master,92967,Tonga,0.5,9824.175
+Customer 0874,65,Male,Master,95144,Malaysia,0.5,10878.6
+Customer 0875,62,Female,PhD,78546,Guadeloupe,0.2,5185.46
+Customer 0876,55,Female,Master,29992,Ireland,0.7,14349.719999999998
+Customer 0877,39,Male,High School,63133,United Arab Emirates,1.0,13156.65
+Customer 0878,24,Male,High School,22397,Martinique,0.1,611.985
+Customer 0879,37,Female,High School,87741,Sri Lanka,0.1,1638.705
+Customer 0880,49,Male,Master,87463,Namibia,0.5,9686.575
+Customer 0881,34,Male,PhD,99090,Zimbabwe,0.8,16763.600000000002
+Customer 0882,48,Female,Master,21952,Somalia,1.0,18097.6
+Customer 0883,56,Female,High School,64790,Antarctica (the territory South of 60 deg S),0.2,3447.9
+Customer 0884,27,Female,PhD,54374,Antigua and Barbuda,0.6,12431.22
+Customer 0885,35,Male,Bachelor,92243,Uganda,0.8,12489.720000000001
+Customer 0886,47,Female,PhD,32318,Djibouti,0.2,4323.18
+Customer 0887,61,Male,High School,52896,Azerbaijan,0.6,8786.88
+Customer 0888,39,Female,High School,70317,Algeria,0.6,9309.51
+Customer 0889,29,Female,PhD,25808,Malta,0.9,17361.36
+Customer 0890,50,Female,Master,55406,Sri Lanka,1.0,19770.3
+Customer 0891,58,Female,High School,65749,Georgia,0.1,1728.7450000000001
+Customer 0892,46,Male,Master,58611,Syrian Arab Republic,0.5,8965.275
+Customer 0893,49,Male,PhD,40678,Maldives,0.4,8013.560000000001
+Customer 0894,40,Male,High School,26247,Luxembourg,0.7,7918.6449999999995
+Customer 0895,46,Female,High School,62523,Kuwait,0.1,1512.615
+Customer 0896,61,Male,PhD,52773,San Marino,0.4,9055.460000000001
+Customer 0897,62,Male,PhD,33460,Holy See (Vatican City State),0.7,15171.099999999999
+Customer 0898,53,Male,Master,33722,Burundi,0.3,5605.829999999999
+Customer 0899,21,Male,Master,75457,New Zealand,0.9,12395.565
+Customer 0900,60,Female,High School,63714,Vietnam,0.8,13748.560000000001
+Customer 0901,55,Female,Master,63828,Puerto Rico,0.4,8876.560000000001
+Customer 0902,21,Male,PhD,88592,Nigeria,0.1,1742.96
+Customer 0903,61,Female,Master,25588,French Guiana,0.9,18251.460000000003
+Customer 0904,30,Male,Bachelor,23947,French Polynesia,0.9,10977.615
+Customer 0905,38,Male,Bachelor,94979,Tokelau,0.8,14199.160000000002
+Customer 0906,52,Female,PhD,43552,Andorra,0.8,19342.079999999998
+Customer 0907,34,Male,High School,67276,Guatemala,0.5,5681.9
+Customer 0908,65,Female,Master,50017,Azerbaijan,0.7,15050.594999999998
+Customer 0909,18,Male,High School,37793,Nigeria,1.0,6889.65
+Customer 0910,39,Male,High School,25449,Algeria,0.9,10145.205000000002
+Customer 0911,28,Male,High School,38291,Jordan,0.3,2974.365
+Customer 0912,53,Male,PhD,70979,Sao Tome and Principe,0.1,2354.895
+Customer 0913,41,Female,Master,93859,Norfolk Island,0.1,2169.295
+Customer 0914,33,Male,Master,68148,Netherlands,0.6,9844.44
+Customer 0915,23,Female,Master,28482,Poland,0.7,9396.869999999999
+Customer 0916,30,Female,Master,39701,Iraq,0.4,6794.02
+Customer 0917,51,Male,Bachelor,86267,Malaysia,0.2,3862.67
+Customer 0918,38,Male,Bachelor,66881,Fiji,0.5,8172.025
+Customer 0919,47,Female,PhD,44238,Cocos (Keeling) Islands,0.7,15548.33
+Customer 0920,44,Female,High School,61578,Slovenia,0.3,4523.67
+Customer 0921,34,Male,Master,78670,Dominican Republic,0.2,3386.7000000000003
+Customer 0922,41,Female,Master,66114,Palestinian Territory,0.3,6091.71
+Customer 0923,44,Male,Bachelor,40671,San Marino,1.0,15033.55
+Customer 0924,47,Female,Bachelor,20206,Cook Islands,0.6,9606.179999999998
+Customer 0925,26,Male,PhD,73630,Peru,1.0,19681.5
+Customer 0926,24,Male,PhD,57931,Croatia,1.0,15896.55
+Customer 0927,62,Male,PhD,20403,Tanzania,1.0,21020.15
+Customer 0928,32,Female,PhD,84710,Cape Verde,1.0,22235.5
+Customer 0929,45,Female,PhD,28001,Ghana,0.5,10700.025
+Customer 0930,29,Male,Master,35972,Saint Martin,0.9,13318.74
+Customer 0931,57,Female,Bachelor,95396,Bermuda,0.7,15238.859999999999
+Customer 0932,32,Male,Master,22330,Timor-Leste,0.8,11293.2
+Customer 0933,38,Female,Master,86587,Lesotho,0.4,8531.74
+Customer 0934,37,Male,PhD,38010,New Zealand,0.5,9950.25
+Customer 0935,31,Female,High School,57605,Vietnam,1.0,12880.25
+Customer 0936,45,Male,High School,48924,Malawi,1.0,12446.2
+Customer 0937,42,Male,Master,95660,Mauritius,0.9,17804.7
+Customer 0938,30,Male,PhD,94002,Belarus,0.8,16560.079999999998
+Customer 0939,41,Female,Bachelor,24034,British Virgin Islands,1.0,16201.7
+Customer 0940,43,Female,Master,60588,Netherlands Antilles,0.3,6008.820000000001
+Customer 0941,36,Female,Master,72059,Antarctica (the territory South of 60 deg S),1.0,20602.95
+Customer 0942,33,Female,Bachelor,43961,Malaysia,0.8,12158.44
+Customer 0943,47,Male,PhD,46541,Thailand,0.9,18294.345
+Customer 0944,36,Female,High School,60515,Reunion,0.5,7512.875
+Customer 0945,28,Male,Bachelor,60282,Guinea,0.3,4204.23
+Customer 0946,28,Female,Bachelor,95620,Switzerland,1.0,17781.0
+Customer 0947,28,Male,High School,36579,Kuwait,0.5,4914.475
+Customer 0948,54,Female,Master,44343,Swaziland,0.1,2121.715
+Customer 0949,35,Female,High School,74219,Lebanon,0.5,6855.475
+Customer 0950,39,Female,High School,92706,Malawi,0.9,14971.77
+Customer 0951,21,Male,Master,75594,Belize,1.0,13779.7
+Customer 0952,48,Female,Bachelor,35639,Costa Rica,0.7,11747.365
+Customer 0953,44,Male,Master,91499,Iceland,0.6,11744.97
+Customer 0954,64,Male,High School,21213,Angola,0.3,3918.1949999999997
+Customer 0955,42,Female,High School,68834,Malawi,0.6,9265.02
+Customer 0956,51,Female,High School,33767,Greece,1.0,15688.35
+Customer 0957,53,Male,Bachelor,62304,Honduras,0.9,16303.68
+Customer 0958,43,Male,High School,30880,Guyana,0.1,1154.4
+Customer 0959,58,Female,Bachelor,73963,French Polynesia,1.0,20698.15
+Customer 0960,62,Male,PhD,47156,Lesotho,0.6,13414.679999999998
+Customer 0961,23,Male,Bachelor,55825,Mozambique,0.4,4316.5
+Customer 0962,60,Male,Bachelor,70421,Kenya,0.7,12964.734999999999
+Customer 0963,30,Male,High School,88458,Antigua and Barbuda,0.5,6211.450000000001
+Customer 0964,44,Male,High School,67573,San Marino,0.6,8027.19
+Customer 0965,34,Male,PhD,95920,Ukraine,0.4,8318.4
+Customer 0966,54,Male,High School,54788,Barbados,0.7,10317.58
+Customer 0967,59,Male,High School,33096,Swaziland,0.6,8192.88
+Customer 0968,39,Male,Master,32823,Guadeloupe,0.4,6656.460000000001
+Customer 0969,37,Male,High School,71323,Italy,0.8,10852.92
+Customer 0970,27,Female,Bachelor,37098,New Caledonia,0.4,5941.96
+Customer 0971,26,Male,High School,81298,Sierra Leone,0.8,9651.92
+Customer 0972,53,Male,PhD,52440,Belarus,0.4,9048.800000000001
+Customer 0973,57,Male,Master,42895,Kenya,0.5,9572.375
+Customer 0974,24,Female,PhD,46459,Sao Tome and Principe,0.8,13858.36
+Customer 0975,34,Female,Bachelor,79336,Egypt,0.3,5090.04
+Customer 0976,56,Male,PhD,65975,Zambia,0.7,16309.124999999998
+Customer 0977,34,Female,Bachelor,37155,Papua New Guinea,1.0,14857.75
+Customer 0978,52,Female,High School,50725,Bosnia and Herzegovina,1.0,16536.25
+Customer 0979,40,Female,High School,60052,Malaysia,0.8,12002.080000000002
+Customer 0980,31,Female,Bachelor,57925,Russian Federation,1.0,15896.25
+Customer 0981,38,Male,Master,24581,Bouvet Island (Bouvetoya),0.7,11360.335
+Customer 0982,64,Male,High School,26324,Costa Rica,0.1,1331.6200000000001
+Customer 0983,44,Female,PhD,63465,Greenland,0.1,2317.3250000000003
+Customer 0984,53,Female,High School,75148,Comoros,0.5,8878.7
+Customer 0985,65,Male,Master,25826,Mexico,0.1,1829.13
+Customer 0986,40,Male,High School,88912,Tajikistan,0.2,2889.1200000000003
+Customer 0987,54,Male,Bachelor,97603,Bahrain,1.0,19880.15
+Customer 0988,44,Female,High School,34195,United States Minor Outlying Islands,0.3,4112.925
+Customer 0989,25,Male,Bachelor,50324,Ethiopia,0.8,8412.960000000001
+Customer 0990,56,Female,PhD,46752,Grenada,0.1,2433.7599999999998
+Customer 0991,51,Female,High School,49951,Poland,0.3,4949.264999999999
+Customer 0992,43,Female,High School,52276,Turks and Caicos Islands,0.4,5845.52
+Customer 0993,25,Male,PhD,84339,Benin,0.7,12051.865
+Customer 0994,34,Male,High School,92407,British Virgin Islands,0.7,8834.244999999999
+Customer 0995,27,Female,Bachelor,26321,Ecuador,0.5,7158.025
+Customer 0996,42,Female,PhD,98170,Bosnia and Herzegovina,0.7,17435.949999999997
+Customer 0997,39,Male,High School,59174,Eritrea,0.9,11662.830000000002
+Customer 0998,50,Male,Master,59808,Serbia,0.4,7196.160000000001
+Customer 0999,50,Female,Master,58272,Cyprus,0.7,13939.519999999999
+Customer 1000,38,Female,Bachelor,32512,Turkey,0.5,8312.8
